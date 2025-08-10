@@ -1,5 +1,5 @@
 
-# PCOS Lifestyle Tracker (CLI)
+# Lifestyle Tracker (CLI)
 
 A simple **Command-Line Interface (CLI)** application designed to help users track their **PCOS/PCOD-related lifestyle habits** — including periods, mood, sleep, and water intake.  
 This project is part of my **Python learning journey** and is aimed at building both **practical coding skills** and **health-focused tools**.
