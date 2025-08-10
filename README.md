@@ -32,7 +32,7 @@ This project is part of my **Python learning journey** and is aimed at building 
 2. **Navigate into the project folder**:
 
    ```bash
-   cd pcos_-tracker_cli
+   cd pcos_tracker_cli
    ```
 
 3. **(Optional but recommended) Create a virtual environment** to keep project dependencies isolated:
