@@ -20,12 +20,9 @@ This project is part of my **Python learning journey** and is aimed at building 
 ---
 
 ## 🛠️ Installation & Setup
-
-
-
 ---
 
-## Revised Installation & Setup for **PCOS Lifestyle Tracker CLI**
+## Installation & Setup for **PCOS Lifestyle Tracker CLI**
 
 ### Installation and Setup
 
