@@ -65,7 +65,7 @@ This project is part of my **Python learning journey** and is aimed at building 
 5. **Run the application** by executing:
 
    ```bash
-   python pcos_tracker_cli.py
+   python tracker.py
    ```
 
 6. **Follow the prompts** in your terminal to start logging your PCOS lifestyle data.
