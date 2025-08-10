@@ -70,7 +70,7 @@ This project is part of my **Python learning journey** and is aimed at building 
 
 
 ---
-##  Installation & Setup for ** Lifestyle Tracker Streamlit App**
+##  Installation & Setup for Lifestyle Tracker Streamlit App
 
 ### Installation and Setup
 
