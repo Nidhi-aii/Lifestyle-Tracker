@@ -20,7 +20,21 @@ The app allows users to log and visualize data related to periods, moods, sleep,
 ## 📂 Project Structure
 lifestyle-tracker/
 │
-├── pcos_tracker_app.py # Main Streamlit app file
-├── data/ # Folder to store user data (CSV files)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── tracker.py                # Main CLI application
+├── pcos_tracker_app.py        # Streamlit web app
+├── requirements.txt           # Dependencies
+├── profile.json               # Stores user profile data
+├── period_data.csv            # Menstrual cycle data
+├── mood_sleep_data.csv        # Mood and sleep logs
+├── tracker_data.csv           # Lifestyle tracker entries
+├── export_weekly_summary.csv  # Weekly summary output
+├── run_tracker.bat            # Windows shortcut (optional)
+├── README.md                  # Documentation
+└── LICENSE                    # License file
+
+##🚀 Future Improvements 
+
+**Add BMI & weight tracking**
+**Integration with Google Sheets for cloud backup**
+**Mobile-friendly web interface**
+**Automated health recommendations**
