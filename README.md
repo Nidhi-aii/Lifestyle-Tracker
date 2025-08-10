@@ -168,7 +168,7 @@ Enter your choice: 1
 
 📦 PCOS-Lifestyle-Tracker
 
- ┣ 📜 pcos_tracker.py        # Main Python script
+ ┣ 📜 tracker.py        # Main Python script
  
  ┣ 📜 data.csv               # Stores user data
  
