@@ -161,16 +161,17 @@ Welcome to PCOS Lifestyle Tracker!
 4. Help
 5. Exit
 Enter your choice: 1
+
 ```
-
-
 ## 📂 Project Structure
-
 ```
 📦 PCOS-Lifestyle-Tracker
  ┣ 📜 pcos_tracker.py        # Main Python script
+ 
  ┣ 📜 data.csv               # Stores user data
+ 
  ┣ 📜 README.md              # Project documentation
+ 
  ┗ 📜 requirements.txt       # Required libraries
 
 
