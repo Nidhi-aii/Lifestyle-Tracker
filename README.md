@@ -21,25 +21,130 @@ This project is part of my **Python learning journey** and is aimed at building 
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
 
-
-2. **Install Dependencies**
-   Make sure you have **Python 3.x** installed. Then install the required libraries:
-
-   ```bash
-   pip install matplotlib
-   ```
-
-3. **Run the Application**
-
-   ```bash
-   python pcos_tracker.py
 
 ---
+
+## Revised Installation & Setup for **PCOS Lifestyle Tracker CLI**
+
+### Installation and Setup
+
+1. **Clone the repository** to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/pcos-lifestyle-tracker-cli.git
+
+2. **Navigate into the project folder**:
+
+   ```bash
+   cd pcos-lifestyle-tracker-cli
+   ```
+
+3. **(Optional but recommended) Create a virtual environment** to keep project dependencies isolated:
+
+   * On Windows:
+
+     ```bash
+     python -m venv venv
+     venv\Scripts\activate
+     ```
+
+   * On macOS/Linux:
+
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+
+4. **Install any dependencies** (if listed in `requirements.txt`). For this CLI app, there might not be extra dependencies, but if there are, run:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Run the application** by executing:
+
+   ```bash
+   python pcos_tracker_cli.py
+   ```
+
+6. **Follow the prompts** in your terminal to start logging your PCOS lifestyle data.
+
+---
+
+
+
+---
+##  Installation & Setup for ** Lifestyle Tracker Streamlit App**
+
+### Installation and Setup
+
+1. **Clone the repository** to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/pcos-lifestyle-tracker-streamlit.git
+
+2. **Navigate into the project folder**:
+
+   ```bash
+   cd pcos-lifestyle-tracker-streamlit
+   ```
+
+3. **(Optional but recommended) Create a virtual environment**:
+
+   * On Windows:
+
+     ```bash
+     python -m venv venv
+     venv\Scripts\activate
+     ```
+
+   * On macOS/Linux:
+
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+
+4. **Install required Python packages** using `pip`:
+
+   * Make sure you have a `requirements.txt` file that includes at least:
+
+     ```
+     streamlit
+     pandas
+     matplotlib
+     ```
+
+   * Run:
+
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+   If you don’t have a `requirements.txt`, just run:
+
+   ```bash
+   pip install streamlit pandas matplotlib
+   ```
+
+5. **Run the Streamlit app** by executing:
+
+   ```bash
+   streamlit run pcos_tracker_app.py
+   ```
+
+6. This will open the app in your default web browser.
+   If it doesn’t open automatically, look for a URL in the terminal output like:
+
+   ```
+   Local URL: http://localhost:8501
+   ```
+
+   Open this URL manually in your browser.
+
+---
+
 
 ## 📖 How to Use
 
